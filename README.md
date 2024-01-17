@@ -8,7 +8,7 @@ A blog application were user can register or login himself and create, post upda
 
 List any software or dependencies that users need to install before using your application.
 
--ReactJS
+- ReactJS
 - Node.js
 - Express
 - MongoDB
